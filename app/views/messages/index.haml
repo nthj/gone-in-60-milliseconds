@@ -1,0 +1,12 @@
+%section
+  %h1 Big Brother
+
+  %aside
+    %ul
+      %li Tweet
+      %li SMS
+      %li Slack
+
+    %p Watchers: <span data-watchers>0</span>
+
+  %div(data-channel="messages")= render Message.recent

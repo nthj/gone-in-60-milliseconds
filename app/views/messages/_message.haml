@@ -1,0 +1,3 @@
+%div[message]{ class: message.source }
+  %time== #{time_ago_in_words message.created_at} ago
+  = simple_format message.content
