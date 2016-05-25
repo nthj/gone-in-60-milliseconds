@@ -1,3 +1,7 @@
+# Slides
+
+[PDF here :)](slides.pdf)
+
 # Further Resources
 
 ## Alternatives
